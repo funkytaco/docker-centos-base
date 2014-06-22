@@ -14,4 +14,4 @@ Modeled after [docker-brew-ubuntu](https://github.com/tianon/docker-brew-ubuntu)
 
 ## generating filesystem image
 
-    ./build_centos.sh
+    ./build_centos.sh [5|6]
