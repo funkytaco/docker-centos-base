@@ -3,6 +3,6 @@
 ## blank base layer
 FROM scratch
 
-MAINTAINER Brian Lalor <blalor@bravo5.org> - ./build_centos.sh
+MAINTAINER Rich Lafferty <rich@lafferty.ca> - ./build_centos.sh
 
-ADD centos65.tar.xz /
+ADD centos.tar.xz /
